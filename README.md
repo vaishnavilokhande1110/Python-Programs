@@ -1,2 +1,2 @@
 # Python-Programs
-All Basic Programs implemented in Python
+These Repository contains all basic programs implemented in Python.
